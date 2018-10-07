@@ -3,4 +3,7 @@ print("Hi, Igor");
 print("Hiiii");
 print("Guten morgen");
 print("Hallo");
+
+print("Good bye");
 print("Guten Tag");
+
