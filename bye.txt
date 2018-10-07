@@ -1,2 +1,5 @@
 print("bye-bye ^_^")
 print("Пока ^_^")
+
+print("12345")
+print("67890")
